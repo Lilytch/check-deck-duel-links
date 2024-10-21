@@ -6,7 +6,6 @@ const cardData = {
     "Goyo Guardian": { type: "Monstruo", synergy: ["Sincronía"] },
     // Añadir más cartas según sea necesario
 };
-
 // Función para obtener el deck desde una URL
 async function fetchDeck(url) {
     try {
